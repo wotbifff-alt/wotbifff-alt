@@ -30,7 +30,7 @@ Yes. I am cool, but sad.
   ▶  I T.D
 ```
 
-─────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────────
 <br clear="all">
 ## ◤ SKILL TREE ◢
 <p align="left">
@@ -45,7 +45,7 @@ Yes. I am cool, but sad.
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/960px-NumPy_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20251223090330"style="width: 18%; alt="NumPy" />
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail"style="width: 18%;  alt="Git" />
 </p>
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 <br clear="all">
 <p align="center">
   <img src="https://i.pinimg.com/736x/5c/2d/0e/5c2d0e6f668e58b8eb7c9a67f39b9496.jpg" width="100%">
